@@ -1,2 +1,5 @@
-# zomato
-online food delivery applcation
+davangere benne dosa
+mysore masala dosa
+tomato bath 
+idli vada
+
